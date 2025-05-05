@@ -99,3 +99,4 @@ MIT License - feel free to use in your projects
 - Email: padmaraj.nidagundi@gmail.com
 - LinkedIn: https://www.linkedin.com/in/padmarajn/
 - GitHub: https://github.com/padmarajnidagundi/Awesome-Tongyi-Lingma-Chat-Context/
+- Ref / https://www.alibabacloud.com/help/en/pai/user-guide/tongyi-lingma
