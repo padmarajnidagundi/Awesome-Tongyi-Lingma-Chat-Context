@@ -1,6 +1,7 @@
-**## 🌟 Awesome Tongyi Lingma Chat Context Guide [2025 Edition]**
+## **🌟 Awesome Tongyi Lingma Chat Context Guide [2025 Edition]**
 
-**🧠 **Tongyi Lingma Chat Contexts for Programmers****  
+## 🧠 Tongyi Lingma Chat Contexts for Programmers
+
 Boost your productivity by using context tags to give Lingma precise, relevant information. This guide lists common context types developers and test engineers can use to supercharge AI assistance inside IDEs like Alibaba Cloud Code or VS Code with Lingma extension.
 
 **> ⚠️ Contexts are invoked using `#` tags in your prompt, just like Copilot Chat. Syntax may vary depending on Lingma updates.**
@@ -87,3 +88,14 @@ CopyEdit
 **### 🔄 Example Prompt**
 
 > “Why is this method failing? #selection #testFile #terminalOutput”
+
+## 🚀 License
+
+MIT License - feel free to use in your projects
+
+## Contact
+
+- Author: Padmaraj Nidagundi
+- Email: padmaraj.nidagundi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/padmarajn/
+- GitHub: https://github.com/padmarajnidagundi/Awesome-Tongyi-Lingma-Chat-Context/
