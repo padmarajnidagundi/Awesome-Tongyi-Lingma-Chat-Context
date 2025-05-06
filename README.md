@@ -1,6 +1,6 @@
 ## **🌟 Awesome Tongyi Lingma Chat Context Guide [2025 Edition]**
 
-## 🧠 Tongyi Lingma Chat Contexts for Programmers
+## 🧠 Tongyi Lingma Chat Contexts for Programmers and QA Automation Engineers. 
 
 Boost your productivity by using context tags to give Lingma precise, relevant information. This guide lists common context types developers and test engineers can use to supercharge AI assistance inside IDEs like Alibaba Cloud Code or VS Code with Lingma extension.
 
