@@ -1,4 +1,4 @@
-## **🌟 Awesome Tongyi Lingma Chat Context Guide for 2025**
+## **Tongyi Lingma Chat Context Guide for 2025**
 
 ## 🧠 Tongyi Lingma Chat Contexts for Programmers and QA Automation Engineers. 
 
