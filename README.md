@@ -2,7 +2,7 @@
 
 ## 🧠 Tongyi Lingma Chat Contexts for Programmers and QA Automation Engineers. 
 
-Boost your productivity by using context tags to give Lingma precise, relevant information. This guide lists common context types developers and test engineers can use to supercharge AI assistance inside IDEs like Alibaba Cloud Code or VS Code with Lingma extension.
+Boost your productivity by using context tags to give Lingma precise, relevant information. This guide lists common context types developers and test engineers can use to supercharge AI assistance inside IDES like Alibaba Cloud Code or VS Code with the Lingma extension.
 
 **> ⚠️ Contexts are invoked using `#` tags in your prompt, just like Copilot Chat. Syntax may vary depending on Lingma updates.**
 
@@ -30,7 +30,7 @@ CopyEdit
     Includes relevant project structure, configs, or linked files. Useful for architecture-level questions.
     
 -   `#testFile`  
-    Automatically pulls in test files related to current code. Use to debug or improve tests.
+    Automatically pulls in test files related to the current code. Use to debug or improve tests.
     
 -   `#gitDiff`  
     Adds staged Git diff for PR review help or code change explanations.
@@ -55,7 +55,7 @@ CopyEdit
     Includes dependency definitions. Ask about dependency issues or recommendations.
     
 -   `#envFile`  
-    Injects contents of `.env` or environment variable files.
+    Injects the contents of `.env` or environment variable files.
     
 -   `#tsConfig` / `#eslintConfig`  
     Useful for understanding TypeScript or lint-related errors.
@@ -80,7 +80,7 @@ CopyEdit
     Includes code documentation or JSDoc comments for context-based explanations.
     
 -   `#readme`  
-    Pulls project README.md content to give Lingma project-level awareness.
+    Pulls project Readme.md content to give Lingma project-level awareness.
     
 
 ----------
